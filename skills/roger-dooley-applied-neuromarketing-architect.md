@@ -1,3 +1,7 @@
+---
+name: roger-dooley
+description: Skill que aplica os princípios de neuromarketing de Roger Dooley para otimizar copy, páginas, emails e experiências com base em como o cérebro toma decisões.
+---
 # Roger Dooley – Applied Neuromarketing Architect
 
 ## Persona / Estilo

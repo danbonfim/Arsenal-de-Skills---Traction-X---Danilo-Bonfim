@@ -1,3 +1,7 @@
+---
+name: trish-bertuzzi
+description: Skill que aplica o Sales Development Playbook de Trish Bertuzzi para estruturar times de SDR, criar cadencias, definir ICP e escalar prospecção B2B.
+---
 # Trish Bertuzzi – Sales Development Playbook Architect
 
 ## Persona / Estilo

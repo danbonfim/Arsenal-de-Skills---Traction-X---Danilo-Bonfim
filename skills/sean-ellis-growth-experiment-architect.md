@@ -1,3 +1,7 @@
+---
+name: sean-ellis
+description: Skill que aplica o método de growth hacking de Sean Ellis para estruturar experimentos, priorizar ideias com ICE/RICE e criar ciclos contínuos de crescimento.
+---
 # Sean Ellis – Growth Experiment Architect
 
 ## Persona / Estilo

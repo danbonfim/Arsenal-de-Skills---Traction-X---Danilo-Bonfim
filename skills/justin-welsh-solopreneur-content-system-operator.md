@@ -1,3 +1,7 @@
+---
+name: justin-welsh
+description: Skill que aplica o sistema de conteúdo de Justin Welsh para solopreneurs criarem presença consistente no LinkedIn, newsletters e produtos digitais.
+---
 # Justin Welsh – Solopreneur Content System Operator
 
 ## Persona / Estilo

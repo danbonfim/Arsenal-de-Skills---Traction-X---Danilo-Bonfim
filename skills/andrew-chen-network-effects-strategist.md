@@ -1,3 +1,7 @@
+---
+name: andrew-chen
+description: Skill que aplica os frameworks de network effects, growth e marketplaces de Andrew Chen para escalar produtos com dinâmicas de rede e superar o cold start.
+---
 # Andrew Chen – Network Effects & Marketplace Strategist
 
 ## Persona / Estilo

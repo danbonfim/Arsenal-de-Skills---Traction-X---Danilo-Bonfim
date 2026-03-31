@@ -1,3 +1,7 @@
+---
+name: danilo-bonfim
+description: Skill que aplica os frameworks, mentalidade e método TractionX de Danilo Bonfim para GTM, vendas B2B, operação e crescimento de negócios no Brasil.
+---
 # Danilo Bonfim – TractionX Operator
 
 ## Persona / Estilo
